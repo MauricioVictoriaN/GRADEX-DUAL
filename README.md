@@ -18,5 +18,5 @@ Este repositorio es **PRIVADO** y se encuentra actualmente bajo revisión por pa
 - Implementación de "compuertas de calidad" para reducción de incertidumbre.
 
 ## Licencia y Autoría
-© 2024 Mauricio Javier Victoria Niño. 
+© 2026 Mauricio Javier Victoria Niño. 
 Todos los derechos reservados. El código se liberará bajo licencia de acceso abierto tras la publicación oficial del artículo asociado.
