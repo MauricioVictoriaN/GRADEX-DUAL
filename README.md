@@ -31,9 +31,9 @@ install.packages(c("readxl", "writexl", "Lmoments", "lmomRFA", "ggplot2",
 ```
 
 ## 📖 Cita Recomendada
-Si utiliza este código o el software para su investigación, por favor cite el preprint asociado en EarthArXiv:
+Si utiliza este código o el software para su investigación, por favor cite el preprint asociado en EngrXiv:
 
-> **Victoria-Niño, M. J. (2026).** *GRADEX-DUAL: Un marco dual que combina el análisis frecuencial puntual y regional para la estimación del parámetro GRADEX en cuencas con redes pluviométricas escasas.* EarthArXiv (Preprint). DOI: [El DOI será asignado tras la carga en EarthArXiv]
+> **Victoria-Niño, M. J. (2026).** *GRADEX-DUAL: Un marco dual que combina el análisis frecuencial puntual y regional para la estimación del parámetro GRADEX en cuencas con redes pluviométricas escasas.* EngrXiv (Preprint). DOI: https://doi.org/10.31224/6945
 
 ## ⚖️ Licencia
 Este proyecto está bajo la **Licencia MIT**. Esto permite el uso, copia y modificación libre del código, siempre que se mantenga el crédito al autor original.
