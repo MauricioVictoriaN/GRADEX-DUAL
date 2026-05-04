@@ -28,7 +28,7 @@ La **innovación principal** radica en un **sistema de compuertas de calidad** q
 
 | Archivo | Descripción |
 |---------|-------------|
-| `gradex_dual_v1.0.R` | Script principal estructurado en 19 secciones. Contiene toda la lógica del modelo. |
+| `gradex_dual_v1.0.0.R` | Script principal estructurado en 19 secciones. Contiene toda la lógica del modelo. |
 | `datos_precipitacion.xlsx` | Series de precipitación máxima anual y coordenadas (caso de estudio: Alto Río Cauca, Colombia). |
 | `LICENCIA` | Términos de uso bajo licencia MIT. |
 | `.gitignore` | Configuración para excluir archivos temporales de R. |
