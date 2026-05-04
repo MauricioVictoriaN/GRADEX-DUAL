@@ -33,10 +33,11 @@ La **innovación principal** radica en un **sistema de compuertas de calidad** q
 
 ```r
 install.packages(c("readxl", "writexl", "Lmoments", "lmomRFA", "ggplot2", "nortest", "sp", "gstat", "automap", "sf", "tseries"))
-📖 Cita Recomendada
+
+## 📖 Cita Recomendada
 Victoria-Niño, M. J. (2026). GRADEX-DUAL: Un marco dual que combina el análisis frecuencial puntual y regional para la estimación del parámetro GRADEX en cuencas con redes pluviométricas escasas. EngrXiv. DOI: 10.31224/6945
 
-bibtex
+```bibtex
 @unpublished{Victoria2026GRADEX,
   author = {Victoria-Niño, Mauricio Javier},
   title = {GRADEX-DUAL: Un marco dual para la estimación del parámetro GRADEX en cuencas con redes pluviométricas escasas},
@@ -44,8 +45,9 @@ bibtex
   doi = {10.31224/6945},
   note = {Preprint en EngrXiv}
 }
-⚖️ Licencia
+
+## ⚖️ Licencia
 Este proyecto está bajo la Licencia MIT. Se permite el uso, copia y modificación libre del código, siempre que se mantenga el crédito al autor original.
 
-✉️ Contacto
+## ✉️ Contacto
 Para dudas, sugerencias o reportar problemas, abra un issue en este repositorio o contacte al autor vía ORCID.
